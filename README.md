@@ -2,7 +2,7 @@
 - 👀 I'm currently working as a Mobile Developer with Flutter, iOS, React Native.
 - 🌱 I’m currently learning web3 development
 - 💞️ I’m looking to collaborate on mobile project @kasha
-- 📫 How to reach me thuong.manh@kasha.io
+- 📫 How to reach me thuong.nguyen@kasha.io
 - ⚡ Fun fact:
   - ☕️ I’m coffeer.
   - ✈️ I love traveling.
